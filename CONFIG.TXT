@@ -1,0 +1,47 @@
+APPLE IIE WIKIPEDIA - CONFIGURATION
+====================================
+
+APPLICATION SETTINGS:
+
+Version: 1.0
+Created: May 2026
+Platform: Apple IIe with DOS 3.3
+Minimum RAM: 48 KB
+Recommended RAM: 64 KB
+
+DISPLAY SETTINGS:
+- Screen: 40 column text mode
+- Text color: White on black
+- Screen updates: Full refresh per page
+
+STORAGE SETTINGS:
+- Article format: Compressed text
+- Index format: Binary lookup table
+- Maximum articles: 255
+- Maximum article size: 16 KB
+- Total database size: 256 KB (multiple disks)
+
+PERFORMANCE TUNING:
+- Cache search results: Yes
+- Preload article index: Yes
+- Compress articles: Yes (80% space savings)
+
+KEYBOARD SHORTCUTS:
+- ESC: Return to menu
+- SPACE: Next page
+- 'S': Search mode
+- 'B': Browse categories
+- 'H': Help
+- 'Q': Quit
+
+MEMORY ALLOCATION:
+- BASIC program: 16 KB
+- Graphics buffer: 16 KB (optional)
+- Search index cache: 8 KB
+- Article buffer: 8 KB
+
+DISK SPACE REQUIREMENTS:
+- Program files: 24 KB
+- Sample articles: 16 KB
+- Indexes: 8 KB
+- Total minimum: 48 KB

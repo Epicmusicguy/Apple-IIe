@@ -1,0 +1,46 @@
+APPLE IIE WIKIPEDIA - INSTALLATION GUIDE
+==========================================
+
+STEP 1: PREPARE DISKS
+- Insert DOS 3.3 Master Disk
+- Boot the computer
+- When prompted, insert your working disk
+
+STEP 2: COPY FILES
+At the ] prompt, type:
+
+BLOAD WIKI.BASIC,A$2000
+LOAD WIKI.BASIC
+RUN
+
+STEP 3: FIRST RUN
+The application will:
+1. Load the main program
+2. Load machine language routines
+3. Initialize the article database
+4. Display the main menu
+
+STEP 4: NAVIGATION
+Use the numeric keys to navigate menus.
+Press SPACE to advance through text.
+Press ESC to return to menu at any time.
+
+STEP 5: ADDING ARTICLES
+To add custom articles:
+1. Edit ARTICLES.DATA with DOS EDITOR
+2. Format: TITLE, CATEGORY, TEXT
+3. Save file
+4. Restart WIKI application
+
+TROUBLESHOOTING:
+
+If you see "FILE NOT FOUND":
+- Make sure all WIKI files are on your disk
+- Re-insert disk and try again
+
+If the program crashes:
+- Boot from DOS 3.3 Master
+- Try running again
+- Check available memory (PRINT PEEK(163))
+
+For more help, consult README.md

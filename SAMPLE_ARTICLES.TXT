@@ -1,0 +1,46 @@
+SAMPLE ARTICLES FOR APPLE IIE WIKIPEDIA
+========================================
+
+ARTICLE 1: APPLE II COMPUTER
+----
+The Apple II is a personal computer that was designed and hand-assembled by Steve Wozniak. It was sold as a motherboard and ROM pack with a simple integer BASIC interpreter by Apple Computer. 
+
+The Apple II was released on June 16, 1977. It ran on a 1 MHz Motorola 6502 processor and featured 4 KB of RAM. The early machines had a simplified design and sold for $666.66.
+
+The Apple II family, including the later Apple IIe, became one of the most popular computers of the 1980s.
+
+See also: Apple IIe, Steve Wozniak, Personal Computers
+
+---
+
+ARTICLE 2: DOS 3.3
+----
+DOS 3.3 is an operating system for the Apple II and Apple IIe computers. It was created by Apple Computer to manage floppy disk storage and provide a command-line interface for users.
+
+Key features:
+- Supports 5.25" floppy disks
+- 16 sectors per track
+- Sequential and random file access
+- BASIC interpreter integration
+- Machine language monitor
+
+DOS 3.3 became the standard operating system for Apple II computers throughout the 1980s.
+
+See also: Apple II, Floppy Disk, Operating Systems
+
+---
+
+ARTICLE 3: APPLESOFT BASIC
+----
+Applesoft BASIC is a dialect of the BASIC programming language for the Apple II series of computers. It was created by Apple Computer and provided as the primary programming language for these machines.
+
+Applesoft BASIC includes many advanced features:
+- Graphics commands (PLOT, HLIN, VLIN)
+- Sound synthesis
+- Joystick input
+- Shape tables for animation
+- File I/O operations
+
+Thousands of programs were written in Applesoft BASIC during the 1980s.
+
+See also: BASIC Programming, Apple II, Programming Languages
