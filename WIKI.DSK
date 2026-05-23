@@ -1,0 +1,19 @@
+This is a placeholder. A real DOS 3.3 disk image needs to be created with disk authoring tools.
+
+To create a bootable WIKI.DSK file:
+
+1. Use CiderPress (Windows/Mac) or Apple II Disk Utility to create a new DOS 3.3 disk image
+2. Copy these files to the disk:
+   - WIKI.BASIC (as BASIC program)
+   - ARTICLES.DATA (as binary data file)
+   - README (as text file)
+
+Alternatively, use tools like:
+- AppleWin (Windows emulator with disk tools)
+- MESS/MAME (cross-platform emulator)
+- Disc Copy (original Apple utility)
+
+The disk image format should be:
+- Format: 140KB 5.25" floppy (standard DOS 3.3)
+- Filename: WIKI.DSK
+- Bootable: Yes (with DOS 3.3 system files)
